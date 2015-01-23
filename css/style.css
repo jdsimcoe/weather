@@ -1,0 +1,27 @@
+html, body {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
+
+html { background: #f8b9db url('../images/weather_bg.jpg') repeat-x; padding:0 !important; margin: 0 !important; }
+
+
+body {
+    background: url('../images/weather_bg_2.jpg') 50% 0 no-repeat;
+    font: 100.01% "Trebuchet MS", Trebuchet, Tahoma, Verdana, Arial, sans-serif;
+    color: #333;
+    padding: 0;
+    padding:0 !important; margin: 0 !important;
+}
+
+h1 {
+    color: #fff;
+    font-family: Georgia, Times, script;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    text-align: center;
+    text-shadow: 0px 2px 2px rgba(0,0,0,0.5);
+}
